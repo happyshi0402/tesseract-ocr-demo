@@ -1,0 +1,6 @@
+node_modules
+.serverless
+.env
+*.traineddata
+images/*
+!images/.gitkeep

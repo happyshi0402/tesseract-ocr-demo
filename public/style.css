@@ -1,0 +1,23 @@
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+#ocr-paste {
+  width: 100%;
+  border: 1px dashed #cccccc;
+  height: 200px;
+}
+
+#ocr-paste img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#ocr-result {
+  padding: 10px;
+  background-color: #f7f7f7;
+  word-wrap: break-word;
+  word-break: break-word;
+  white-space: pre-wrap;
+}
